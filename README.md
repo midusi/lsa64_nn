@@ -2,6 +2,8 @@
 
 # How to run experiments
 
+TODO: briefly explain which notebooks correspond to which experiments.
+
 # Supplementary materials
 * Activation videos
   * [ConvLSTM]()
